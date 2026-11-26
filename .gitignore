@@ -1,0 +1,10 @@
+.DS_Store
+._*
+
+.local/
+
+build/
+out/
+.vs/
+CMakeSettings.json
+CMakeUserPresets.json
